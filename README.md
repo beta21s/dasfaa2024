@@ -3,6 +3,14 @@ We propose the GUESS system to allow users to visualize the performance and ener
 - (1) Visualize the performance and energy consumption of Spark applications when deployed in serverless and serverful environments;
 - (2) Compare the differences in the initialization, data processing, and resource reclamation phases of Spark applications when running in serverless versus serverful environments.
 
+# Web Application for Visualization
+
+### Visualize the performance
+
+### Visualize the energy consumption
+
+### Compare the differences in the initialization, data processing, and resource reclamation phases
+
 # Demo Access
 To make it more visual, we have posted a brief demo video on YouTube for access. URL: 
 
