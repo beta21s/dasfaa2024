@@ -12,7 +12,7 @@ We propose the GUESS system to allow users to visualize the performance and ener
 ### Compare the differences in the initialization, data processing, and resource reclamation phases
 
 # Demo Access
-To make it more visual, we have posted a brief demo video on YouTube for access. URL: 
+To make it more visual, we have posted a brief demo video on YouTube for access. URL: https://youtu.be/fC8ABz3P3xE
 
 # Article
 For more information, please see the article "GUESS: MONITORING JOIN QUERY EXECUTION IN SERVERLESS AND SERVERFUL SPARK".
