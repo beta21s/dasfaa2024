@@ -7,9 +7,17 @@ We propose the GUESS system to allow users to visualize the performance and ener
 
 ### Visualize the performance
 
+![Screenshot](https://i.imgur.com/napHuAC.png)
+
+
 ### Visualize the energy consumption
 
+![Screenshot](https://i.imgur.com/UywYxvq.png)
+
+
 ### Compare the differences in the initialization, data processing, and resource reclamation phases
+
+![Screenshot](https://i.imgur.com/N8kGJYE.png)
 
 # Demo Access
 To make it more visual, we have posted a brief demo video on YouTube for access. URL: https://youtu.be/fC8ABz3P3xE
