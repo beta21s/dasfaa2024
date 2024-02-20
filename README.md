@@ -4,7 +4,9 @@ We propose the GUESS system to allow users to visualize the performance and ener
 - (2) Compare the differences in the initialization, data processing, and resource reclamation phases of Spark applications when running in serverless versus serverful environments.
 
 # Demo Access
-To make it more visual, we have posted a brief demo video on YouTube for access. URL: https://youtu.be/fC8ABz3P3xE
+To make it more visual, we have posted a brief demo video on YouTube for access. 
+
+URL: [https://youtu.be/fC8ABz3P3xE](https://youtu.be/emSbp1KfYFg)
 
 # Web Application for Visualization
 
